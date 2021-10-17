@@ -5,6 +5,10 @@
       <map>
         <entry key="..\:/Users/khali/AndroidStudioProjects/AlertDialog/app/src/main/res/layout/activity_main.xml" value="0.140625" />
         <entry key="..\:/Users/khali/AndroidStudioProjects/AlertDialog/app/src/main/res/layout/activity_main2.xml" value="0.1546875" />
+<<<<<<< HEAD
+=======
+        <entry key="..\:/Users/khali/AndroidStudioProjects/AlertDialog/app/src/main/res/layout/dailog.xml" value="0.1546875" />
+>>>>>>> a8f43b2 (Initial commit)
       </map>
     </option>
   </component>
